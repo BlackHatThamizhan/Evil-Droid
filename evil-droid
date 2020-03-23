@@ -240,7 +240,7 @@ echo -e $lightgreen "             MMMMM   MMMMM           "
 echo -e $lightgreen "             MMMMM   MMMMM           "   
 echo -e $lightgreen "             MMMMM   MMMMM           "   
 echo -e $lightgreen "             .MMM.   .MMM.           " 
-echo -e $lightgreen "     Mascerano Bachir - Dev-labs     "                                 
+echo -e $lightgreen "     Mr.Black...      - Dev-labs     "                                 
 }
 #function lhost
 function get_lhost() 
