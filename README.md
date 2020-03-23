@@ -1,5 +1,5 @@
 ## Evil-Droid Framework . version 0.3 
-    Author: Mascerano Bachir [ dev-labs ]
+    Author: Mr.Black...   [ dev-labs ]
 
 ## Legal Disclamer:
     The author does not hold any responsibility for the bad use of this tool,
@@ -25,7 +25,7 @@
 
 ## Download/Config/Usage:
     1? - Download the tool from github
-         git clone 
+         git clone https://github.com/BujiiHacker/Evil-Droid
 
     2? - Set script execution permission
          cd Evil-Droid
