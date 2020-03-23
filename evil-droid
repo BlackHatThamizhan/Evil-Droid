@@ -712,11 +712,8 @@ start=$(zenity --question --title="☢ Evil-Droid Framework ☢" --text "Execute
     clear
     echo ""
     echo -e $lightgreen "╔──────────────────────────────────────────────╗"
-    echo -e $lightgreen "|           Author: Mascerano Bachir           |"
-    echo -e $lightgreen "|    Evil-Droid Framework $ver - Dev-labs.co   |"
-    echo -e $lightgreen "|   Credits to : MrPedroubuntu , Kader Achraf  |"
-    echo -e $lightgreen "|               , youcef yahia                 |"
-    echo -e $lightgreen "|              and Mohammed Yacine             |"
+    echo -e $lightgreen "|           Author: Mr.Black...                         |"
+    echo -e $lightgreen "|    Evil-Droid Framework $ver - Dev-labs.c.            |"
     echo -e $lightgreen "┖──────────────────────────────────────────────┙"
     echo ""
     apache_svc_stop
