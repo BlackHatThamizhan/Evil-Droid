@@ -20,12 +20,12 @@
 	2 - xterm
 	3 - Zenity
 	4 - Aapt
-	5 - Apktool
+	5 - Apktoolhttps://github.com/BujiiHacker/Evil-Droid
 	6 - Zipalign
 
 ## Download/Config/Usage:
     1? - Download the tool from github
-         git clone https://github.com/M4sc3r4n0/Evil-Droid.git
+         git clone 
 
     2? - Set script execution permission
          cd Evil-Droid
